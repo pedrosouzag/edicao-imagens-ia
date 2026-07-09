@@ -34,6 +34,10 @@ Receber uma imagem e uma instrução em português, identificar o objeto mencion
 
 **Pedro Souza Goularte**
 
+## Orientador
+
+**PROF Pedro Henrique Lopes Silva - DECOM/UFOP**
+
 ## Documento do projeto
 
 [Ver documento do projeto no Google Docs](https://docs.google.com/document/d/1pd8I3hTJJECC8N-s3qMvUI3nSsKoszKIqQ0Tia1T1ns/edit?tab=t.yozr90dq3xbr)
