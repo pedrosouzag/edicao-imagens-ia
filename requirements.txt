@@ -1,0 +1,12 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+segment-anything
+groundingdino-py
+opencv-python
+pillow
+numpy
+matplotlib
+scipy
